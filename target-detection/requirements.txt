@@ -1,0 +1,6 @@
+# Starter dependencies; pin exact versions after recovering the original environment.
+opencv-python
+ultralytics
+numpy
+torch
+torchvision
